@@ -1,4 +1,5 @@
-# Nameko Examples
+# Python Microservices Example from [Nameko Examples](https://github.com/nameko/nameko-examples)
+
 ![Airship Ltd](airship.png)
 ## Airship Ltd
 Buying and selling quality airships since 2012
